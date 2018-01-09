@@ -1,0 +1,24 @@
+{
+  "private": true,
+  "bin": "bin/index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "express": "^4.15.2",
+    "fs-plus": "^3.0.1",
+    "hjson": "^3.1.0",
+    "lodash": "^4.17.4",
+    "mobx": "^3.4.1",
+    "socket.io": "^2.0.4",
+    "winston": "^3.0.0-rc1",
+    "yargs-parser": "^8.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.0",
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}

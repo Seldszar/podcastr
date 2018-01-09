@@ -1,0 +1,19 @@
+{
+  /**
+   * The Discord bot token.
+   * @type {String}
+   */
+  token: ""
+
+  /**
+   * The voice channel ID where the bot joins.
+   * @type {String}
+   */
+  channel: ""
+
+  /**
+   * The server port.
+   * @type {Number}
+   */
+  port: 3000
+}
