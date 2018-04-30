@@ -10,10 +10,10 @@
     "fs-plus": "^3.0.1",
     "hjson": "^3.1.0",
     "lodash": "^4.17.4",
-    "mobx": "^3.4.1",
+    "mobx": "^4.2.0",
     "socket.io": "^2.0.4",
     "winston": "^3.0.0-rc1",
-    "yargs-parser": "^8.1.0"
+    "yargs-parser": "^10.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.0",
